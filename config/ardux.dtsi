@@ -424,7 +424,7 @@
 			display-name = "BT";
 			bindings = <
 				BIG_LEADING_NONES
-				&none &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 ARDUX_BT_TOP
+				&none &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 BT_CLR
 				BIG_BETWEEN_ROW_ONE_TWO_NONES
 				&none &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_SEL 5 ARDUX_BT_BOTTOM
 				BIG_BETWEEN_ROW_TWO_THREE_NONES
